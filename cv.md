@@ -11,7 +11,7 @@
 
 ## Brief description
 * Depot Manager since Aug 2005
-* Have great expirence in logistic&logistic projects handling
+* Have great expirence in depot&logistic projects handling
 * Communication skills
 * Good knowledges of MS office aplications
 

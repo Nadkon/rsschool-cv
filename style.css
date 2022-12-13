@@ -38,6 +38,11 @@ body {
   margin: 0 auto;
 }
 
+.header {
+  background-color: antiquewhite;
+  position: sticky;
+  top: 0;
+}
 .nav-list {
   display: flex;
   justify-content: flex-end;
@@ -61,17 +66,41 @@ body {
   color: #4d2323;
 }
 
-.main-container {
+.container {
   display: flex;
   flex-wrap: wrap;
 }
 
 .section {
-  width: 50%;
+  width: 40%;
+  margin: 10px;
 }
 
-.section-list {
+.section-title {
+  text-align: center;
+}
+
+.section-header {
+  margin: 0 auto;
+  font-style: oblique;
+}
+
+.my-img {
+  display: block;
+  margin: 0 auto;
+}
+.section-list,
+.contact-list {
   list-style: none;
+}
+
+.footer {
+  background-color: violet;
+}
+
+.footer-year,
+.footer-link {
+  padding: 20px;
 }
 
 @media (max-width: 768px) {

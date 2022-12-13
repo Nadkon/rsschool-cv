@@ -98,9 +98,23 @@ body {
   background-color: violet;
 }
 
-.footer-year,
-.footer-link {
+.rs-logo {
+  width: 100px;
+}
+
+.course-link{
+  text-align: right;
+}
+
+.footer-container{
+  display: flex;
+  justify-content: space-around;
   padding: 20px;
+}
+
+.footer-logo{
+  width: 60%;
+  text-align: right;
 }
 
 @media (max-width: 768px) {
